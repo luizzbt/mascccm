@@ -13,3 +13,11 @@ p{
     font-size: 20px;
     color: black;
 }
+
+header{
+    color: blueviolet;
+    font-size: 35px;
+    border-bottom: solid 2px rgb(166, 0, 255);
+    margin: 0;
+    padding: 20px;
+}
