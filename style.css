@@ -1,17 +1,15 @@
-body{
-    background-color: aqua;
-    color: black;
-}
-header{
-color:rgb(30, 98, 166);
-font-size: 35px;
-border-bottom: solid 2px rgb(6, 75, 160);
-padding: 20px;
-}
 h1{
-    color: black;
-    text-size: 35px;
+    color:rgb(246, 3, 3);
+    font-size: 40px;
+    text-align: center;
 }
-p{
 
+body{
+    color: black;
+    background-color: aquamarine;
+}
+
+p{
+    font-size: 20px;
+    color: black;
 }
